@@ -1,0 +1,12 @@
+pandas
+pdfplumber
+camel-ai
+pymupdf
+pymupdf4llm
+requests-oauthlib
+sqlalchemy
+jinja2
+chromadb
+sentence-transformers
+einops
+colour-science
